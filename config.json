@@ -1,0 +1,32 @@
+{
+    "log_folder": "set/your/path/",
+    "api_key": "your_shodan_api_key",
+    "queries": [
+        "port:443",
+        "port:80",
+        "port:53",
+        "port:8443",
+        "port:25",
+        "port:161",
+        "port:22",
+        "port:587",
+        "port:1935",
+        "port:465",
+        "port:10443",
+        "port:9090",
+        "port:5060",
+        "port:123",
+        "port:5222",
+        "port:587",
+        "port:465",
+        "port:1935",
+        "port:587",
+        "port:8443",
+        "vuln:\"CVE-2006-20001\"",
+        "vuln:\"CVE-2007-4723\"",
+        "vuln:\"CVE-2009-0796\"",
+        "vuln:\"CVE-2009-2299\"",
+        "vuln:\"CVE-2011-1176\"",
+        "vuln:\"CVE-2011-2688\""
+    ]
+}
