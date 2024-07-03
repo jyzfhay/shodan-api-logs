@@ -1,6 +1,7 @@
 # Shodan Data Fetch Script
 
 This script fetches data from the Shodan API based on specified queries and saves the results to a log file. It is designed to run continuously, appending new data to the log file and rotating the log file every six runs to manage disk space usage.
+This imitates current functionality of Splunk's Shodan Integration. This can add many more queries for your environment.
 
 ## Features
 
