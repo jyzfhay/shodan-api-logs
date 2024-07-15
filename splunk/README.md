@@ -26,5 +26,5 @@ This Python script fetches data from the Shodan API based on specified queries a
 
 2. Install the requirements:
 
+   ```bash
    pip install -r requirements.txt
-
