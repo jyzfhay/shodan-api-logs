@@ -23,3 +23,8 @@ This Python script fetches data from the Shodan API based on specified queries a
    ```bash
    git clone https://github.com/yourusername/shodan-fetcher-splunk.git
    cd shodan-fetcher-splunk
+
+2. Install the requirements:
+
+   pip install -r requirements.txt
+
